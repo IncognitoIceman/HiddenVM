@@ -1,0 +1,5 @@
+# For 'sudo -u clearnet virt-manager'
+amnesia ALL=(clearnet) NOPASSWD: /usr/bin/virt-manager
+
+# For 'sudo -u clearnet libvirtd'
+amnesia ALL=(clearnet) NOPASSWD: /usr/sbin/libvirtd

@@ -1,0 +1,25 @@
+ID,Desired progress value at that point,Message
+1,0,Beginning installation
+2,1,Copying files
+3,3,Setting up permissions on amnesia mounts
+4,8,Processing configuration
+5,10,Configuring system
+6,15,Restoring package cache
+7,22,Updating and caching package indexes for Virtual Machine Manager
+8,22,Restoring cached package indexes for Virtual Machine Manager
+9,35,Installing prerequisite packages
+10,40,Installing Linux kernel headers
+11,50,Installing Virtual Machine Manager
+12,57,Computing unused cached packages
+13,60,Downgrading some packages for stability
+14,65,Updating and caching other package indexes
+15,65,Restoring other cached package indexes
+16,72,Configuring clearnet user
+17,74,Configuring Virtual Machine Manager
+18,86,Launching Virtual Machine Manager
+19,88,Installing dotfiles links
+20,93,Running extras.sh custom script
+21,95,Pruning package cache
+22,97,Caching packages
+23,100,Done!
+
